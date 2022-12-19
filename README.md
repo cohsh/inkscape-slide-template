@@ -1,3 +1,2 @@
 # My Slide Template
-- Beamer
-- Inkscape
+- Inkscape + JessyInk
